@@ -1,4 +1,4 @@
-# nesasm CE v3.0 - a 6502 assembler with specific NES support
+# nesasm CE v3.0b - a 6502 assembler with specific NES support
 
 Just another modification of nesasm. Based on modification by Tim Hentenaar which is based on modification by Bob Rost which is based on modification of nesasm 2.51 from MagicKit.
 

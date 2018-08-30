@@ -4,7 +4,7 @@ COMMIT_INFO = commit.h
 
 CFLAGS   = -O2 -Wall
 ifeq ($(OS),Windows_NT)
-  LDFLAGS += -largp
+  LDFLAGS += /usr/lib/libargp.dll.a
 endif
 
 OBJS     = main.o input.o assemble.o expr.o code.o command.o\

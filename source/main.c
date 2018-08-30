@@ -25,7 +25,7 @@
  *
  */
  
-#define VERSION "v3.0"
+#define VERSION "v3.0b"
 #define DESCRIPTION "a 6502 assembler with specific NES support"
 #define GITHUB_URL "https://github.com/ClusterM/nesasm/"
 
